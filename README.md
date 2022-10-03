@@ -1,6 +1,7 @@
 # Ignite Lab 02
 
+- Typescript
 - Vite
-- Tailwind
+- Tailwindcss
 - GraphQL
 - Apollo Client (GraphQL)
